@@ -10,7 +10,7 @@ method'lardan oluşan tek bir coarse-grained interface'e dönüştürür.
 [Akın Kaldiroglu Design Pattern Yapisal Kaliplar PDF, Sayfa 108 ](https://github.com/javaturk/DesignPatterns/blob/master/Slides/5%20-%20Yap%C4%B1sal%20Kal%C4%B1plar.pdf)
 
 ### Örnek Yapı:
-![structural.facade](../images/facade.png)
+![structural.facade](facade.png)
 
 Buradaki örnekte Computer class'ı coarse-grained interface olarak yer alır. Interface olarak kastedilen şey aslında bir 
 class'tır. Buradak interface terimi ile akla ilk gelen interface imgesi farklı şeylerdir.
